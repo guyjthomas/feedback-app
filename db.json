@@ -1,0 +1,19 @@
+{
+    "feeback": [
+        {
+            "id": 1,
+            "rating": 10,
+            "text": "This is from the mock server item #1"
+        },
+        {
+            "id": 2,
+            "rating": 4,
+            "text": "This is from the mock server item #2"
+        },
+        {
+            "id": 3,
+            "rating": 6,
+            "text": "This is from the mock server item #3"
+        }
+    ]
+}
